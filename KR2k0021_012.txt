@@ -1,0 +1,226 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 景定建康志
+#+DATE: 2015-08-24 22:39:30.348610
+#+PROPERTY: ID KR2k0021
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
+<pb:KR2k0021_WYG_012-1a>¶
+欽定四庫全書¶
+　景定建康志巻十二　　　宋　周應合　撰¶
+建康表八(起隋開皇已酉至周顯徳已/未凡三百八十年為世表)¶
+　(隋受周禪都長安改元開皇九年而滅陳故陳表至/是年終隋表以是年始自隋以来非都建康而事見)¶
+　(於此者為世表/)¶
+<pb:KR2k0021_WYG_012-2a>¶
+¶
+<pb:KR2k0021_WYG_012-3a>¶
+¶
+<pb:KR2k0021_WYG_012-4a>¶
+¶
+<pb:KR2k0021_WYG_012-5a>¶
+¶
+<pb:KR2k0021_WYG_012-6a>¶
+¶
+<pb:KR2k0021_WYG_012-7a>¶
+¶
+<pb:KR2k0021_WYG_012-8a>¶
+¶
+<pb:KR2k0021_WYG_012-9a>¶
+¶
+<pb:KR2k0021_WYG_012-10a>¶
+¶
+<pb:KR2k0021_WYG_012-11a>¶
+¶
+<pb:KR2k0021_WYG_012-12a>¶
+¶
+<pb:KR2k0021_WYG_012-13a>¶
+¶
+<pb:KR2k0021_WYG_012-14a>¶
+¶
+<pb:KR2k0021_WYG_012-15a>¶
+¶
+<pb:KR2k0021_WYG_012-16a>¶
+¶
+<pb:KR2k0021_WYG_012-17a>¶
+¶
+<pb:KR2k0021_WYG_012-18a>¶
+¶
+<pb:KR2k0021_WYG_012-19a>¶
+¶
+<pb:KR2k0021_WYG_012-20a>¶
+¶
+<pb:KR2k0021_WYG_012-21a>¶
+¶
+<pb:KR2k0021_WYG_012-22a>¶
+¶
+<pb:KR2k0021_WYG_012-23a>¶
+¶
+<pb:KR2k0021_WYG_012-24a>¶
+¶
+<pb:KR2k0021_WYG_012-25a>¶
+¶
+<pb:KR2k0021_WYG_012-26a>¶
+¶
+<pb:KR2k0021_WYG_012-27a>¶
+¶
+<pb:KR2k0021_WYG_012-28a>¶
+¶
+<pb:KR2k0021_WYG_012-29a>¶
+¶
+<pb:KR2k0021_WYG_012-30a>¶
+¶
+<pb:KR2k0021_WYG_012-31a>¶
+¶
+<pb:KR2k0021_WYG_012-32a>¶
+¶
+<pb:KR2k0021_WYG_012-33a>¶
+¶
+<pb:KR2k0021_WYG_012-34a>¶
+¶
+<pb:KR2k0021_WYG_012-35a>¶
+¶
+<pb:KR2k0021_WYG_012-36a>¶
+¶
+<pb:KR2k0021_WYG_012-37a>¶
+¶
+<pb:KR2k0021_WYG_012-38a>¶
+¶
+<pb:KR2k0021_WYG_012-39a>¶
+¶
+<pb:KR2k0021_WYG_012-40a>¶
+¶
+<pb:KR2k0021_WYG_012-41a>¶
+¶
+<pb:KR2k0021_WYG_012-42a>¶
+¶
+<pb:KR2k0021_WYG_012-43a>¶
+¶
+<pb:KR2k0021_WYG_012-44a>¶
+¶
+<pb:KR2k0021_WYG_012-45a>¶
+¶
+<pb:KR2k0021_WYG_012-46a>¶
+¶
+<pb:KR2k0021_WYG_012-47a>¶
+¶
+<pb:KR2k0021_WYG_012-48a>¶
+¶
+<pb:KR2k0021_WYG_012-49a>¶
+¶
+<pb:KR2k0021_WYG_012-50a>¶
+¶
+<pb:KR2k0021_WYG_012-51a>¶
+¶
+<pb:KR2k0021_WYG_012-52a>¶
+¶
+<pb:KR2k0021_WYG_012-53a>¶
+¶
+<pb:KR2k0021_WYG_012-54a>¶
+¶
+<pb:KR2k0021_WYG_012-55a>¶
+¶
+<pb:KR2k0021_WYG_012-56a>¶
+¶
+<pb:KR2k0021_WYG_012-57a>¶
+¶
+<pb:KR2k0021_WYG_012-58a>¶
+¶
+<pb:KR2k0021_WYG_012-59a>¶
+¶
+<pb:KR2k0021_WYG_012-60a>¶
+¶
+<pb:KR2k0021_WYG_012-61a>¶
+¶
+<pb:KR2k0021_WYG_012-62a>¶
+¶
+<pb:KR2k0021_WYG_012-63a>¶
+¶
+<pb:KR2k0021_WYG_012-64a>¶
+¶
+<pb:KR2k0021_WYG_012-65a>¶
+¶
+<pb:KR2k0021_WYG_012-66a>¶
+¶
+<pb:KR2k0021_WYG_012-67a>¶
+¶
+<pb:KR2k0021_WYG_012-68a>¶
+¶
+<pb:KR2k0021_WYG_012-69a>¶
+¶
+<pb:KR2k0021_WYG_012-70a>¶
+¶
+<pb:KR2k0021_WYG_012-71a>¶
+¶
+<pb:KR2k0021_WYG_012-72a>¶
+¶
+<pb:KR2k0021_WYG_012-73a>¶
+¶
+<pb:KR2k0021_WYG_012-74a>¶
+¶
+<pb:KR2k0021_WYG_012-75a>¶
+¶
+<pb:KR2k0021_WYG_012-76a>¶
+¶
+<pb:KR2k0021_WYG_012-77a>¶
+¶
+<pb:KR2k0021_WYG_012-78a>¶
+¶
+<pb:KR2k0021_WYG_012-79a>¶
+¶
+<pb:KR2k0021_WYG_012-80a>¶
+¶
+<pb:KR2k0021_WYG_012-81a>¶
+¶
+<pb:KR2k0021_WYG_012-82a>¶
+¶
+<pb:KR2k0021_WYG_012-83a>¶
+¶
+<pb:KR2k0021_WYG_012-84a>¶
+¶
+<pb:KR2k0021_WYG_012-85a>¶
+¶
+<pb:KR2k0021_WYG_012-86a>¶
+¶
+<pb:KR2k0021_WYG_012-87a>¶
+¶
+<pb:KR2k0021_WYG_012-88a>¶
+¶
+<pb:KR2k0021_WYG_012-89a>¶
+¶
+<pb:KR2k0021_WYG_012-90a>¶
+¶
+<pb:KR2k0021_WYG_012-91a>¶
+¶
+<pb:KR2k0021_WYG_012-92a>¶
+¶
+<pb:KR2k0021_WYG_012-93a>¶
+¶
+<pb:KR2k0021_WYG_012-94a>¶
+¶
+<pb:KR2k0021_WYG_012-95a>¶
+¶
+<pb:KR2k0021_WYG_012-96a>¶
+¶
+<pb:KR2k0021_WYG_012-97a>¶
+¶
+<pb:KR2k0021_WYG_012-98a>¶
+¶
+<pb:KR2k0021_WYG_012-99a>¶
+¶
+<pb:KR2k0021_WYG_012-100a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR2k0021_WYG_012-100b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　景定建康志巻十二¶
